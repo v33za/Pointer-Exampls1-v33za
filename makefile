@@ -1,4 +1,4 @@
-DEPS= test
+DEPS= vza
 compile: main.cpp 
 	 g++ main.cpp -o $(DEPS)
 
